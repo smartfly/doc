@@ -29,6 +29,7 @@ go mod有以下命令：
 - go get 如果有版本的更改，那么go.mod文件也会更改
 
 ## 参考资料
+[Using Go Modules](https://blog.golang.org/using-go-modules)
 
 [go mod 使用](https://juejin.im/post/5c8e503a6fb9a070d878184a)
 
