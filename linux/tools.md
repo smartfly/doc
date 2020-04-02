@@ -66,3 +66,5 @@ sudo apt-get install tmux
 
 [使用Tmux终端复用器](https://www.qingsword.com/qing/ubuntu-tmux.html)
 
+[Tmux 快捷键 & 速查表 & 简明教程](https://gist.github.com/ryerh/14b7c24dfd623ef8edc7)
+
