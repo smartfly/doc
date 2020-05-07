@@ -1,3 +1,20 @@
+
+
+
+
+# [分布式系统的事务处理](https://coolshell.cn/articles/10910.html)
+
+- 一致性模型
+- Master-Slave
+- Master-Master
+- Two/Three Phase Commit
+- Two Generals Problem
+- Paxos Algorithm
+
+# [Gossip 协议简介](http://kaiyuan.me/2015/07/08/Gossip/)
+
+Gossip是分布式系统中被广泛使用的协议，其主要用于实现分布式节点或者进程之间的信息交换。Gossip协议同时满足应用层多播协议所要求的低负载，高可用和可扩展性的要求。由于其简单而易于实现，当前很多系统(例如Amazon S3, Usenet NNTP等)选择基于Gossip协议以实现应用层多播的功能。
+
 # [alibaba/Sentinel](https://github.com/alibaba/Sentinel)
 
 A powerful flow control component enabling reliability, resilience and monitoring for micro-services.
