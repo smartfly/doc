@@ -1,3 +1,7 @@
+
+
+# [为什么 Redis 快照使用子进程](https://draveness.me/whys-the-design-redis-bgsave-fork/)
+
 # [美团针对Redis Rehash机制的探索和实践](https://mp.weixin.qq.com/s/ufoLJiXE0wU4Bc7ZbE9cDQ) 
 
 # Redis 多地集群数据如何做到双向同步
