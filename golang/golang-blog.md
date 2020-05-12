@@ -1,3 +1,7 @@
+[如何写出优雅的Go语言代码](https://draveness.me/golang-101/)
+
+
+
 [Go按行读取数据的坑](https://github.com/ma6174/blog/issues/10)
 
 在项目中遇到一个mac生成的txt，在用golang的Scanner函数按行读取数据，遇到将多行读取成一行问题。

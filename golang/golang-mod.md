@@ -21,6 +21,13 @@ go mod有以下命令：
 | verify   | verify dependencies have expected content(验证依赖是否正确)  |
 | why      | explain why packages or modules are needed(解释为什么需要依赖) |
 
+## 常用命令
+
+```shell
+# GO111MODULE=on 以后，下载的模块内容会缓存在 $GOPATH/pkg/mod 目录中.要是想清理该缓存，执行下面命令
+go clean --modcache
+```
+
 ## go get 升级
 
 - go get -u 将会升级到最新的次要版本或修订版本(x.y.z, z是修订版本号， y是次要版本号)
