@@ -1,5 +1,9 @@
 
 
+# [为什么 Redis 选择单线程模型](https://draveness.me/whys-the-design-redis-single-thread/)
+
+CPU资源往往都不是Redis服务器的性能瓶颈。哪怕我们在一个普通的 Linux 服务器上启动 Redis 服务，它也能在 1s 的时间内处理 1,000,000 个用户请求。
+
 # [为什么 Redis 快照使用子进程](https://draveness.me/whys-the-design-redis-bgsave-fork/)
 
 # [美团针对Redis Rehash机制的探索和实践](https://mp.weixin.qq.com/s/ufoLJiXE0wU4Bc7ZbE9cDQ) 

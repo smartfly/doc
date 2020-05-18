@@ -2,3 +2,7 @@
 
 [wireshark抓包新手使用教程](https://www.cnblogs.com/mq0036/p/11187138.html)
 
+[How to Filter By IP in Wireshark](https://linuxhint.com/filter_by_ip_wireshark/)
+
+[Wireshark过滤规则-http数据包](https://www.magentonotes.com/wireshark-filter-http-packet.html)
+
