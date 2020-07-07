@@ -8,7 +8,7 @@
 
 - [x] [深入理解TCP协议]()
 
-- [x] [C Primer Plus(第六版)](https://book.douban.com/subject/26792521/)
+- [x] [C Primer Plus(第6版)](https://book.douban.com/subject/26792521/)
 
 - [x] [计算机是怎么跑起来的](https://book.douban.com/subject/26397183/)
 
