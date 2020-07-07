@@ -2,3 +2,5 @@
 
 [bloom-calculator](https://krisives.github.io/bloom-calculator/)
 
+[Visualizing min-heap algorithms with D3.js](http://www.benfrederickson.com/heap-visualization/)
+

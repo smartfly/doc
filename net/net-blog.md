@@ -2,7 +2,11 @@
 
 # [tcpdump简明教程](https://github.com/mylxsw/growing-up/blob/master/doc/tcpdump%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
 
+```shell
+sudo tcpdump -i eth1 'host 10.xx.xx.xx' -w test.cap
+```
 
+​		抓eth1网卡，源IP或目的IP为```10.xx.xx.xx```的数据。
 
 # I/O模型
 
