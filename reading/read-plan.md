@@ -2,7 +2,7 @@
 
 - [x] [大型网站技术架构]()
 
-- [ ] [SRE: Google运维解密]()
+- [x] [SRE: Google运维解密]()
 
 - [x] [redis深度历险]()
 
@@ -10,7 +10,7 @@
 
 - [x] [C Primer Plus(第六版)](https://book.douban.com/subject/26792521/)
 
-- [ ] [计算机是怎么跑起来的](https://book.douban.com/subject/26397183/)
+- [x] [计算机是怎么跑起来的](https://book.douban.com/subject/26397183/)
 
 - [ ] [数据密集型应用系统设计](https://book.douban.com/subject/30329536//)
 
