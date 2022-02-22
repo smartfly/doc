@@ -1,3 +1,13 @@
+# grep
+
+grep有用参数：
+- -A num, --after-context=num: 在结果中同时输出匹配行之后的num行
+- -B num, --before-context=num: 在结果中同时输出匹配行之前的num行
+- -i, --ignore-case: 忽略大小写
+- -n, --line-number: 显示行号
+- -R,-r, --recursive: 递归搜索子目录
+- -v, --invert-match: 输出没有匹配的行
+
 # [grep 多个关键字与和或操作](https://blog.csdn.net/mmbbz/article/details/51035401)
 
 #### 或操作
