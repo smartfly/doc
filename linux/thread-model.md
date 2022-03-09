@@ -9,7 +9,7 @@
 也称为内核级线程，是操作系统内核的最小调度单元。
 
 ## 用户级线程模型
-![用户级线程模型](https://github.com/smartfly/doc/blob/master/pic/线程模型-用户级线程模型.svg?raw=true)
+![alt text](https://github.com/smartfly/doc/blob/master/pic/线程模型-用户级线程模型.svg?raw=true)
 
 用户线程与KSE为多对一(N:1)的映射关系。此模型下的线程由用户级别的线程库全权管理，线程库存储在进程的用户空间中，
 这些线程的存在对于内核来说是无法感知的，所以这些线程也不是内核调度器调度的对象。一个进程中所有创建的线程都只和同一个KSE在运行时动态绑定，
